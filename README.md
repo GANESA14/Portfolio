@@ -43,27 +43,9 @@ This repository contains the **source code** for my portfolio website:
 
 ---
 
-## Getting Started
-
-To run this portfolio locally:
-
-1. Clone the repository:  
-bash
-   git clone https://github.com/ganesa14/Portfolio.git
-
-
-2. Navigate into the project folder:
-
-   ```bash
-   cd Portfolio
-   ```
-3. Open `index.html` in your browser.
-
----
-
 ## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ganeshdeveloper025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ganesa14)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yourusername)
 
