@@ -1,6 +1,3 @@
-Perfect! Here’s a **full professional README.md** for your portfolio repository, including your **site URL**, **social icons**, and a polished layout. I’ve replaced placeholders with your actual URLs where possible.
-
-````markdown
 # S Ganesh — Portfolio
 
 Welcome to my personal portfolio! 👋  
