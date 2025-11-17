@@ -90,7 +90,3 @@ This project is **open source** and available under the [MIT License](LICENSE).
 
 ---
 
-If you want, I can also **add a screenshot of your portfolio website in the README** so it looks **more visually appealing**, like professional GitHub portfolios. This makes it stand out a lot.  
-
-Do you want me to do that next?
-```
