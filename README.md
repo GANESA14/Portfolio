@@ -48,9 +48,9 @@ This repository contains the **source code** for my portfolio website:
 To run this portfolio locally:
 
 1. Clone the repository:  
-   ```bash
+bash
    git clone https://github.com/ganesa14/Portfolio.git
-````
+
 
 2. Navigate into the project folder:
 
@@ -81,7 +81,6 @@ To run this portfolio locally:
 
 This project is **open source** and available under the [MIT License](LICENSE).
 
-```
 
 ✅ **Notes / Actions You Need to Take**:
 1. Replace `your-email@example.com` with your actual email.  
