@@ -23,7 +23,7 @@ My goal is to create **clean, user-friendly, and impactful projects** while cont
 ## Portfolio Website
 
 This repository contains the **source code** for my portfolio website:  
-[https://ganesa14.github.io/Portfolio/index.html](https://ganesa14.github.io/Portfolio/index.html)
+[Click](https://ganesa14.github.io/Portfolios/)
 
 ### Features
 - **Responsive Design** – Works on desktop, tablet, and mobile  
