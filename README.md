@@ -63,12 +63,4 @@ This repository contains the **source code** for my portfolio website:
 
 This project is **open source** and available under the [MIT License](LICENSE).
 
-
-✅ **Notes / Actions You Need to Take**:
-1. Replace `your-email@example.com` with your actual email.  
-2. Replace `yourusername` in Instagram URL with your actual username.  
-3. If you have a downloadable CV, you can link it in the “Features” section.  
-4. Add any frameworks or libraries you used under “Technologies Used” if needed.
-
 ---
-
